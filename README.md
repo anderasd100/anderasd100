@@ -9,3 +9,4 @@
 
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anderasd100&theme=blue-green)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=anderasd100&theme=blue-green)

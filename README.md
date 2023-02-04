@@ -6,3 +6,6 @@
 ![Anderson GitHub stats](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Anderson GitHub stats](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 + ADVPL
+
+
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anderasd100&theme=blue-green)

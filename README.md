@@ -1,4 +1,5 @@
- 🔭 Atualmente estou trabalhando como analista e dev da linguagem LSP(Linguagem Senior de Programação).
+ 🔭 Atualmente estou trabalhando como analista e dev.<br><hr>
+    Linguagem de programação que  utilizo no meu trabalho é: LSP(Linguagem Senior de Programação).<hr>
 ## Estou aprendendo
 
 <img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" width="100" height="60"/> <img src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg" width="100" height="50"><img src="https://brainbox.com.br/wp-content/uploads/2021/12/cropped-prhotheus_logo.png" width="150" height="50"/>

@@ -30,4 +30,3 @@ Estudando muito o universo  ERP Protheus:
 <a href="https://www.linkedin.com/in/anderson-abreu-rabelo-8248061a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderasd100&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">

@@ -14,15 +14,15 @@ Estudando muito o universo  ERP Protheus:
 
 º Programação MVC.
 
-º Treinamento APSDU usando ADVPL.
+º APSDU usando ADVPL.
 
 º Criação de relatórios com ADVPL.
 
 ° Otimização de consultas SQL com ADVPL+MVC.
 
-° Protheus V12- Seja um Expert: Contabilidade Gerencial, Fiscal, TAF, Gestão de Pessoal, Fechamento de Folha.
+° Contabilidade Gerencial, Fiscal, TAF, Gestão de Pessoal, Fechamento de Folha.
 
-° Protheus V12- Seja um Consultor- Nível 01: Instalação Express do Totvs Protheus 12.1.33, Compras, Contas a Pagar, Estoque e PCP, Faturamento, Contas a Receber, Tesouraria.
+° Instalação Express do Totvs Protheus 12.1.33, Compras, Contas a Pagar, Estoque e PCP, Faturamento, Contas a Receber, Tesouraria.
 ## Contatos:
 
 <div>

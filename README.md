@@ -1,4 +1,5 @@
-  ## Atualmente: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderasd100)](https://github.com/anderasd100/github-readme-stats)  
+## Atualmente: 
     🔭 Trabalhando como analista de sistemas e dev.
    ## Linguagem de programação que  utilizo no meu trabalho:
       LSP (Linguagem Senior de Programação).

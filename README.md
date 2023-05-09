@@ -10,21 +10,17 @@
 
 Amante do universo  ERP Protheus:
 
-º  Programação ADVPL.
-
+º Programação ADVPL.
 º Programação MVC.
-
 º APSDU usando ADVPL.
-
 º Criação de relatórios com ADVPL.
-
 ° Otimização de consultas SQL com ADVPL+MVC.
-
 ° Contabilidade Gerencial, Fiscal, TAF, Gestão de Pessoal, Fechamento de Folha.
+° Compras, Contas a Pagar, Estoque e PCP, Faturamento, Contas a Receber, Tesouraria.
+° Instalação  do Totvs Protheus Release- 12.1.033 Harpia. 
+° Instalação  do Totvs Protheus Release- 12.1.027 Loboguara. 
 
-° Instalação Express do Totvs Protheus 12.1.33, Compras, Contas a Pagar, Estoque e PCP, Faturamento, Contas a Receber, Tesouraria.
 ## Contatos:
-
 <div>
 <a href = "mailto:andersonabreurabelo.9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anderson-abreu-rabelo-8248061a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

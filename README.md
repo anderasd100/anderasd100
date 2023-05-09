@@ -6,18 +6,26 @@
    
 ## Estou aprendendo:
 
-<img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" width="100" height="60"/> <img src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg" width="100" height="50"><img src="https://brainbox.com.br/wp-content/uploads/2021/12/cropped-prhotheus_logo.png" width="150" height="50"/>
+<img src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg" width="100" height="50"><img src="https://brainbox.com.br/wp-content/uploads/2021/12/cropped-prhotheus_logo.png" width="150" height="50"/>
 
 Amante do universo  ERP Protheus:
 
 º Programação ADVPL.
+
 º Programação MVC.
+
 º APSDU usando ADVPL.
+
 º Criação de relatórios com ADVPL.
+
 ° Otimização de consultas SQL com ADVPL+MVC.
+
 ° Contabilidade Gerencial, Fiscal, TAF, Gestão de Pessoal, Fechamento de Folha.
+
 ° Compras, Contas a Pagar, Estoque e PCP, Faturamento, Contas a Receber, Tesouraria.
+
 ° Instalação  do Totvs Protheus Release- 12.1.033 Harpia. 
+
 ° Instalação  do Totvs Protheus Release- 12.1.027 Loboguara. 
 
 ## Contatos:

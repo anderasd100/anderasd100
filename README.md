@@ -4,11 +4,9 @@
       LSP (Linguagem Senior de Programação).
    <img src="https://cdn.ead.guru/6272/media/public/Logo_Linkedin_x78McpQ.png" width="50" height="50"/> 
    
-## Estou aprendendo:
+## Amante do universo ERP Protheus:
 
 <img src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg" width="100" height="50"><img src="https://brainbox.com.br/wp-content/uploads/2021/12/cropped-prhotheus_logo.png" width="150" height="50"/>
-
-Amante do universo  ERP Protheus:
 
 º Programação ADVPL.
 

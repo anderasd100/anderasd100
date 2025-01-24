@@ -2,7 +2,7 @@
     🔭 Trabalhando como analista de sistemas e dev.
    ## Linguagem de programação que  utilizo:
       LSP (Linguagem Senior de Programação).
-   <img src="https://miro.medium.com/v2/resize:fit:1400/1*Bd5dYeGhFGhYuqJUpHjrNA.png" width="150" height="150"/> 
+   <img src="https://miro.medium.com/v2/resize:fit:1400/1*Bd5dYeGhFGhYuqJUpHjrNA.png" width="250" height="250"/> 
    
 ## Amante do universo ERP Protheus:
 

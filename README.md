@@ -13,7 +13,7 @@
    
 ## Amante do universo ERP Protheus:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cryptocurrency_logos.jpg/300px-Cryptocurrency_logos.jpg" width="100" height="50"><img src="https://brainbox.com.br/wp-content/uploads/2021/12/cropped-prhotheus_logo.png" width="150" height="50"/>
+<img src="https://cdn.prod.website-files.com/5ef503b9dcd722d7cc5424e7/5fa469293954f616ec9a2bc1_Bitcoin%20gif.gif" width="100" height="50"><img src="" width="150" height="50"/>
 
 
 ## Contatos:

@@ -6,30 +6,15 @@
     - Analista de suporte
     - Instrutor de informática
    ## Linguagem de programação que  utilizo:
-      LSP (Linguagem Senior de Programação).
+      - Python
+      - Django
+      - SLQ
    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Bd5dYeGhFGhYuqJUpHjrNA.png" width="250" height="150"/> 
    
 ## Amante do universo ERP Protheus:
 
 <img src="https://bluecast.com.br/wp-content/uploads/2021/11/Bluecast-IT-Outsourcing-ADVPL.jpg" width="100" height="50"><img src="https://brainbox.com.br/wp-content/uploads/2021/12/cropped-prhotheus_logo.png" width="150" height="50"/>
 
-º Programação ADVPL.
-
-º Programação MVC.
-
-º APSDU usando ADVPL.
-
-º Criação de relatórios com ADVPL.
-
-° Otimização de consultas SQL com ADVPL+MVC.
-
-° Contabilidade Gerencial, Fiscal, TAF, Gestão de Pessoal, Fechamento de Folha.
-
-° Compras, Contas a Pagar, Estoque e PCP, Faturamento, Contas a Receber, Tesouraria.
-
-° Instalação  do Totvs Protheus Release- 12.1.033 Harpia. 
-
-° Instalação  do Totvs Protheus Release- 12.1.027 Loboguara. 
 
 ## Contatos:
 <div>

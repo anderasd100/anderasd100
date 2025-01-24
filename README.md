@@ -1,8 +1,8 @@
-## Atualmente: 
+## Eterno aprendiz do universo tecnológico: 
     🔭 Trabalhando como analista de sistemas e dev.
-   ## Linguagem de programação que  utilizo no meu trabalho:
+   ## Linguagem de programação que  utilizo:
       LSP (Linguagem Senior de Programação).
-   <img src="https://cdn.ead.guru/6272/media/public/Logo_Linkedin_x78McpQ.png" width="50" height="50"/> 
+   <img src="https://miro.medium.com/v2/resize:fit:1400/1*Bd5dYeGhFGhYuqJUpHjrNA.png" width="50" height="50"/> 
    
 ## Amante do universo ERP Protheus:
 

@@ -1,5 +1,10 @@
 ## Eterno aprendiz do universo tecnológico: 
-    🔭 Trabalhando como analista de sistemas e dev.
+    🔭 Experiências: 
+    - Supervisor de suporte
+    - Analista de sistemas
+    - Dev
+    - Analista de suporte
+    - Instrutor de informática
    ## Linguagem de programação que  utilizo:
       LSP (Linguagem Senior de Programação).
    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Bd5dYeGhFGhYuqJUpHjrNA.png" width="250" height="150"/> 

@@ -11,7 +11,7 @@
       - SLQ
    <img src="https://miro.medium.com/v2/resize:fit:1400/1*Bd5dYeGhFGhYuqJUpHjrNA.png" width="250" height="150"/> 
    
-## Amante do universo ERP Protheus:
+## Amante do universo de Criptomoedas e suas Blockchains:
 
 <img src="https://cdn.prod.website-files.com/5ef503b9dcd722d7cc5424e7/5fa469293954f616ec9a2bc1_Bitcoin%20gif.gif" width="400" height="200"/>
 

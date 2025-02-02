@@ -9,7 +9,7 @@
       - Python
       - Django
       - SLQ
-   <img src="https://img.odcdn.com.br/wp-content/uploads/2020/04/20200423030657.jpg" width="200" height="100"/> 
+   <img src="https://img.odcdn.com.br/wp-content/uploads/2020/04/20200423030657.jpg" width="150" height="100"/> 
    
 ## Amante do universo de Criptomoedas e suas Blockchains:
 

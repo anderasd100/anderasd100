@@ -9,7 +9,7 @@
       - Python
       - Django
       - SLQ
-   <img src="https://www.freecodecamp.org/portuguese/news/content/images/2022/09/DjangoRocket.gif" width="400" height="250"/> 
+   <img src="https://img.odcdn.com.br/wp-content/uploads/2020/04/20200423030657.jpg" width="100" height="100"/> 
    
 ## Amante do universo de Criptomoedas e suas Blockchains:
 

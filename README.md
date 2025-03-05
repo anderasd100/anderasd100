@@ -10,7 +10,7 @@
    
 ## Lover of the world of Cryptocurrencies and their Blockchains:
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" width="85" height="85"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" width="85" height="85"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLXNMeG4OgFWrCWd2vi4gGx5vCb0RE0g8yg&s" width="85" height="85"/>
 
 
 ## Contacts:

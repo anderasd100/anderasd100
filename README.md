@@ -10,7 +10,7 @@
    
 ## Lover of the world of Cryptocurrencies and their Blockchains:
 
-<img src="https://cdn.prod.website-files.com/5ef503b9dcd722d7cc5424e7/5fa469293954f616ec9a2bc1_Bitcoin%20gif.gif" width="400" height="200"/>
+<img src="#F7931A" width="400" height="200"/>
 
 
 ## Contacts:

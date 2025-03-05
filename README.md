@@ -13,7 +13,7 @@
 <img src="https://cdn.prod.website-files.com/5ef503b9dcd722d7cc5424e7/5fa469293954f616ec9a2bc1_Bitcoin%20gif.gif" width="400" height="200"/>
 
 
-## Contatos:
+## Contacts:
 <div>
 <a href = "mailto:andersonabreurabelo.9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anderson-abreu-rabelo-8248061a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   

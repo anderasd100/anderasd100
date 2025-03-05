@@ -1,3 +1,7 @@
+Graduated in Information Systems.
+High School Integrated with Professional Education. Technological axis: Information and Communication.
+Professional with experience in Information Technology and Technical Team Management, experience in training and team leadership. With experience in IT systems projects, development of corporate solutions and technical support. Graduated in Information Systems, with knowledge in programming and databases, in addition to knowledge about ERP.
+
 ## Eternal apprentice of the technological universe: 
     🔭 Experiences: 
     - Support supervisor

@@ -10,7 +10,7 @@
    
 ## Lover of the world of Cryptocurrencies and their Blockchains:
 
-<img src="#F7931A" width="400" height="200"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" width="400" height="200"/>
 
 
 ## Contacts:
